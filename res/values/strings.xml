@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primitiva</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadena1">0</string>
+    <string name="cadena2">0</string>
+    <string name="cadena3">0</string>
+    <string name="cadena4">0</string>
+    <string name="cadena5">0</string>
+    <string name="cadena6">0</string>
+    <string name="btnGenerar">Generar</string>
+
+</resources>
